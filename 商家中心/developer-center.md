@@ -6,17 +6,17 @@ API管理
 
 功能描述：管理所有已创建并申请了API权限的商家/应用。
 
-![](../.gitbook/assets/image75.png)
+![](<../.gitbook/assets/image75 (1).png>)
 
 操作：
 
 创建API Secret：创建好API key给到技术进行技术对接。该密钥请妥善管理，如有泄露风险，请尽快替换。
 
-![](../.gitbook/assets/image76.png)
+![](<../.gitbook/assets/image76 (1).png>)
 
 Webhooks回调：技术参数配置，根据业务勾选对应事件。
 
-![](../.gitbook/assets/image77.png)
+![](<../.gitbook/assets/image77 (1).png>)
 
 文档版本 v1.1 | 最后更新 2026-06-15 | 维护人：产品组
 

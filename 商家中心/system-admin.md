@@ -38,7 +38,7 @@
 
 分配角色：分配角色后，该用户拥有该角色对应权限
 
-![](../.gitbook/assets/image63.png)
+![](<../.gitbook/assets/image63 (1).png>)
 
 ·
 
@@ -46,7 +46,7 @@
 
 功能描述：查看平台所有后台角色信息，并进行角色权限管理。
 
-![](../.gitbook/assets/image64.png)
+![](<../.gitbook/assets/image64 (1).png>)
 
 操作：
 
@@ -54,7 +54,7 @@
 
 超级管理员:默认选否即可
 
-![](../.gitbook/assets/image65.png)
+![](<../.gitbook/assets/image65 (1).png>)
 
 编辑：编辑已创建角色信息
 
@@ -62,13 +62,13 @@
 
 绑定菜单：角色绑定菜单，对应绑定角色用户才能进入管理及查看该菜单
 
-![](../.gitbook/assets/image66.png)
+![](<../.gitbook/assets/image66 (1).png>)
 
 安全中心
 
 该页面主要管理登录商家的基础安全信息以及最佳登录历史查看。
 
-![](../.gitbook/assets/image67.png)
+![](<../.gitbook/assets/image67 (1).png>)
 
 资料审核管理
 
@@ -86,7 +86,7 @@
 
 审核通过后，获得更多权限
 
-![](../.gitbook/assets/image68.png)
+![](../.gitbook/assets/image3.png)
 
 登录密码管理
 
@@ -104,7 +104,7 @@
 
 点击“确定”，密码修改即时生效。
 
-![](../.gitbook/assets/image69.png)
+![](<../.gitbook/assets/image69 (1).png>)
 
 资金密码管理
 
@@ -122,7 +122,7 @@
 
 点击“确定”，密码修改即时生效。
 
-![](../.gitbook/assets/image70.png)
+![](<../.gitbook/assets/image70 (1).png>)
 
 谷歌验证器绑定
 
@@ -146,14 +146,14 @@ APP将生成一个6位动态验证码。
 
 确认成功后，重置谷歌成功。
 
-![](../.gitbook/assets/image71.png)
+![](<../.gitbook/assets/image71 (1).png>)
 
-![](../.gitbook/assets/image72.png)
+![](<../.gitbook/assets/image72 (1).png>)
 
-![](../.gitbook/assets/image73.png)
+![](<../.gitbook/assets/image73 (1).png>)
 
 最近登录历史
 
 功能描述：显示该商家账户最佳登录地区及IP信息，如发现在未知地区登录，请及时修改密码以及谷歌验证器。
 
-![](../.gitbook/assets/image74.png)
+![](<../.gitbook/assets/image74 (1).png>)
