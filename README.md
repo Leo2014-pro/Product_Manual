@@ -20,24 +20,24 @@
 
 
 
-### 合作方式                         商家中心
+### 合作方式                       商家中心
 
-[合作模式](合作方式/合作模式.md)                                        [资产中心](商家中心/asset-center.md)
+[合作模式](合作方式/合作模式.md)                                       [资产中心](商家中心/asset-center.md)
 
-[入驻方式](合作方式/入驻方式.md)                                         [收款](商家中心/collection.md)
+[入驻方式](合作方式/入驻方式.md)                                       [收款](商家中心/collection.md)
 
-&#x20;                                                                  [付款](商家中心/payout.md)
+&#x20;                                                                 [付款](商家中心/payout.md)
 
-&#x20;                                                                  [承兑订单](商家中心/otc-orders.md)
+&#x20;                                                                 [承兑订单](商家中心/otc-orders.md)
 
-&#x20;                                                                  [U卡管理](商家中心/ucard-management.md)
+&#x20;                                                                 [U卡管理](商家中心/ucard-management.md)
 
-&#x20;                                                                  [VA账户](商家中心/va-account.md)
+&#x20;                                                                 [VA账户](商家中心/va-account.md)
 
-&#x20;                                                                  [卡收单](商家中心/card-acquiring.md)
+&#x20;                                                                 [卡收单](商家中心/card-acquiring.md)
 
-&#x20;                                                                  [报表管理](商家中心/reports.md)
+&#x20;                                                                 [报表管理](商家中心/reports.md)
 
-&#x20;                                                                  [系统管理](商家中心/system-admin.md)
+&#x20;                                                                 [系统管理](商家中心/system-admin.md)
 
-&#x20;                                                                  [开发者中心](商家中心/developer-center.md)
+&#x20;                                                                 [开发者中心](商家中心/developer-center.md)
