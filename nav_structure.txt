@@ -1,0 +1,10 @@
+资产中心|商家中心/asset-center.md
+收款|商家中心/collection.md
+付款|商家中心/payout.md
+承兑订单|商家中心/otc-orders.md
+U卡管理|商家中心/ucard-management.md
+VA账户|商家中心/va-account.md
+卡收单|商家中心/card-acquiring.md
+报表管理|商家中心/reports.md
+系统管理|商家中心/system-admin.md
+开发者中心|商家中心/developer-center.md
