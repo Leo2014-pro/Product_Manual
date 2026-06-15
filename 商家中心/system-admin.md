@@ -1,10 +1,8 @@
-# 系统管理
+﻿# 系统管理
 
 系统管理板块是平台管理员进行全局配置、管理用户与权限、API管理、监控系统运行的后台中枢。
 
 功能描述：查看平台所有后台管理员账户信息，并进行账户状态管理。
-
-![Screenshot](../.gitbook/assets/image60.png)
 
 操作：
 
@@ -26,23 +24,15 @@
 
 谷歌验证码：验证当前登录账户谷歌验证码，用于安全验证
 
-![Screenshot](../.gitbook/assets/image61.png)
-
 编辑：编辑用户名以及状态
-
-![Screenshot](../.gitbook/assets/image62.png)
 
 删除：删除用户后，用户无法登录商家后台
 
 分配角色：分配角色后，该用户拥有该角色对应权限
 
-![Screenshot](../.gitbook/assets/image63.png)
-
 ·
 
 功能描述：查看平台所有后台角色信息，并进行角色权限管理。
-
-![Screenshot](../.gitbook/assets/image64.png)
 
 操作：
 
@@ -50,19 +40,13 @@
 
 超级管理员:默认选否即可
 
-![Screenshot](../.gitbook/assets/image65.png)
-
 编辑：编辑已创建角色信息
 
 删除：删除角色后，绑定该角色的用户将无任何权限
 
 绑定菜单：角色绑定菜单，对应绑定角色用户才能进入管理及查看该菜单
 
-![Screenshot](../.gitbook/assets/image66.png)
-
 该页面主要管理登录商家的基础安全信息以及最佳登录历史查看。
-
-![Screenshot](../.gitbook/assets/image67.png)
 
 资料审核管理
 
@@ -80,8 +64,6 @@
 
 审核通过后，获得更多权限
 
-![Screenshot](../.gitbook/assets/image68.png)
-
 登录密码管理
 
 功能描述：修改登录商家后台的密码。
@@ -98,8 +80,6 @@
 
 点击“确定”，密码修改即时生效。
 
-![Screenshot](../.gitbook/assets/image69.png)
-
 资金密码管理
 
 功能描述：设置或修改用于提现等资金操作时的二次验证密码。
@@ -115,8 +95,6 @@
 输入邮件验证码/谷歌验证码进行身份验证。
 
 点击“确定”，密码修改即时生效。
-
-![Screenshot](../.gitbook/assets/image70.png)
 
 谷歌验证器绑定
 
@@ -140,14 +118,7 @@ APP将生成一个6位动态验证码。
 
 确认成功后，重置谷歌成功。
 
-![Screenshot](../.gitbook/assets/image71.png)
-
-![Screenshot](../.gitbook/assets/image72.png)
-
-![Screenshot](../.gitbook/assets/image73.png)
-
 最近登录历史
 
 功能描述：显示该商家账户最佳登录地区及IP信息，如发现在未知地区登录，请及时修改密码以及谷歌验证器。
 
-![Screenshot](../.gitbook/assets/image74.png)

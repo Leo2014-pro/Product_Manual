@@ -1,10 +1,8 @@
-# 付款
+﻿# 付款
 
 付款是商家管理所有向用户付款（代付）订单、跟踪资金状态的核心功能模块。
 
 功能描述：本页面集中展示您数字货币代付订单记录，便于查询、跟踪和管理。
-
-![Screenshot](../.gitbook/assets/image23.png)
 
 操作：
 
@@ -28,13 +26,7 @@
 
 状态：开启、关闭
 
-![Screenshot](../.gitbook/assets/image24.png)
-
-![Screenshot](../.gitbook/assets/image25.png)
-
 批量付款：下载模板进行填写批量付款收款信息
-
-![Screenshot](../.gitbook/assets/image26.png)
 
 审核/批量审核：审核通过后，代付订单进行上链付款。审核不通过订单失败。
 

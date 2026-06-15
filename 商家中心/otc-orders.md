@@ -1,12 +1,8 @@
-# 承兑订单
+﻿# 承兑订单
 
 当使用OLS上游进行承兑时，有该模块，商户KYB等信息全部在OSL进行进件、每笔出入金订单都在OSL进行，平台只是将数据透传至上游。
 
 功能描述：本页面进行承兑账户开通，以及开通承兑账户VA收款信息展示、数币资产展示。
-
-![Screenshot](../.gitbook/assets/image27.png)
-
-![Screenshot](../.gitbook/assets/image28.png)
 
 操作：
 
@@ -24,8 +20,6 @@
 
 功能描述：商户进行查看承兑账户收款账户信息。
 
-![Screenshot](../.gitbook/assets/image29.png)
-
 操作描述
 
 存款详情
@@ -38,15 +32,9 @@
 
 数币：显示该交易对手收款钱包地址，当该钱包地址收到资金，默认为该交易对手进行转账。
 
-![Screenshot](../.gitbook/assets/image30.png)
-
 法币：显示收款银行信息，以及打款公司名称。必须使用该交易对手同名账户进行打款，否则无法上帐。
 
-![Screenshot](../.gitbook/assets/image31.png)
-
 功能描述：商户进行承兑账户付款操作。
-
-![Screenshot](../.gitbook/assets/image32.png)
 
 操作描述
 
@@ -55,8 +43,6 @@
 付款前，必须添加交易对手以及交易对手收款钱包地址&银行卡号。
 
 当选择第三方交易对手时，必须在交易对手模块先添加付款额度，才能进行付款。给自己付款则无需额度限制。
-
-![Screenshot](../.gitbook/assets/image33.png)
 
 付款详情
 
@@ -70,8 +56,6 @@
 
 提交订单后，在付款订单列表查看订单状态。
 
-![Screenshot](../.gitbook/assets/image34.png)
-
 法币：
 
 输入付款金额，以及用途。
@@ -80,19 +64,13 @@
 
 提交订单后，在付款订单列表查看订单状态。
 
-![Screenshot](../.gitbook/assets/image35.png)
-
 功能描述：维护商家进行出入金的对手公司信息、出入金账户、出金额度。
-
-![Screenshot](../.gitbook/assets/image36.png)
 
 操作描述：
 
 交易对手：作为出入金的对手公司信息，出入金以交易对手作为主体
 
 创建交易对手：创建一个与商家进行出入金的公司主体。
-
-![Screenshot](../.gitbook/assets/image37.png)
 
 编辑：编辑别名
 
@@ -108,13 +86,9 @@
 
 上传文件额度会进行累加。
 
-![Screenshot](../.gitbook/assets/image38.png)
-
 交易对手-额度管理
 
 所有币种出金额度统一USD，商家进行出金时，会进行扣除。
-
-![Screenshot](../.gitbook/assets/image39.png)
 
 交易对手-数币
 
@@ -124,8 +98,6 @@
 
 新增：创建一个新的钱包地址，给商家收款。
 
-![Screenshot](../.gitbook/assets/image40.png)
-
 出金
 
 列表：该交易对手多个出金地址展示。商户给该交易对手打款数币时，必须是该列表中审核通过地址。
@@ -133,8 +105,6 @@
 新增：创建一个出金钱包地址。
 
 禁用/启用：禁用后该地址打款时，无法被选择。
-
-![Screenshot](../.gitbook/assets/image41.png)
 
 交易对手-法币
 
@@ -144,8 +114,6 @@
 
 新增：创建一个新的入金通道，必须是该交易对手同名的银行账户。
 
-![Screenshot](../.gitbook/assets/image42.png)
-
 出金
 
 列表：该交易对手多个收款银行账户展示。商户给该交易对手打款法币时，必须是该列表中审核通过银行账户。
@@ -154,20 +122,13 @@
 
 禁用/启用：禁用后该地址打款时，无法被选择。
 
-![Screenshot](../.gitbook/assets/image43.png)
-
 功能描述：商家承兑账户充值订单管理及查看。
 
 操作描述：
 
 添加交易对手：当未添加交易对手的用户，给商户银行账户进行打款时，必须先进入交易对手，添加同名交易对手，订单才能继续。
 
-![Screenshot](../.gitbook/assets/image44.png)
-
 手工上账：当收款法币资金时，必须选择兑换为数字货币。确认后，订单继续进行，最终以选择数币货币进行结算到承兑账户中。
-
-![Screenshot](../.gitbook/assets/image45.png)
 
 功能描述：商家承兑账户提现订单查看。
 
-![Screenshot](../.gitbook/assets/image46.png)
